@@ -1,5 +1,6 @@
 # Disease-Predictor
 Given the basic data, like blood pressure,sugar level etc., this site will predict the likeliness of having that disease.
+> Live link - __[http://paras2903sood.pythonanywhere.com/](http://paras2903sood.pythonanywhere.com/)__
 
 ## Landing Page
 ![landing page](/predictor/static/predictor/images/landing_page.jpg)
@@ -10,7 +11,7 @@ Given the basic data, like blood pressure,sugar level etc., this site will predi
 ## Entering Parameters and getting result
 ![result](/predictor/static/predictor/images/entering_params_and_getting_result.jpg)
 
-### How to run
+### How to run locally
 We are planning to get this website live soon. Till then follow the steps below:
 - Open terminal
 - cd to the directory where this code is present
